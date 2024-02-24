@@ -10,6 +10,6 @@ This repository contains a Python script for fraud detection using machine learn
    # Include dependencies like scikit-learn, pandas, etc.
 2. Run the application:
    ```bash
-    # fraud_detection_system.py file contains the Python script for fraud detection using machine learning.
+    # `fraud_detection_system.py` file contains the Python script for fraud detection using machine learning.
 
 Feel free to explore and enhance the Fraud Detection System!
